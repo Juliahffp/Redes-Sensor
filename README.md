@@ -28,5 +28,3 @@ Inspirado em cenários reais como monitoramento ambiental e automação, o siste
 Cada sensor inicia com uma medição aleatória dentro do intervalo. Após isso, passa a **corrigir** o valor com base em até **3 sensores mais próximos**.
 
 ### Atualização das Medições
-
-Fórmula:
